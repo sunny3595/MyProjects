@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+docx2txt
+pdfplumber
+tika
+python-magic
+spacy
